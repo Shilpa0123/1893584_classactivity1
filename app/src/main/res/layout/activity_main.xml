@@ -9,15 +9,6 @@
     tools:context=".MainActivity"
     android:background="#21abcd">
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="281dp"
-        android:layout_height="87dp"
-        android:layout_marginEnd="72dp"
-        android:layout_marginBottom="88dp"
-        app:layout_constraintBottom_toTopOf="@+id/FName"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:srcCompat="@drawable/download" />
 
 
 
